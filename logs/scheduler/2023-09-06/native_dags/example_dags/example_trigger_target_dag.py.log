@@ -1,0 +1,18 @@
+[2023-09-06T18:50:02.437-0300] {processor.py:157} INFO - Started process (PID=971) to work on /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-06T18:50:02.439-0300] {processor.py:829} INFO - Processing file /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-06T18:50:02.441-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:02.440-0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-06T18:50:02.450-0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-06T18:50:02.657-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:02.656-0300] {manager.py:501} INFO - Created Permission View: can read on DAG:example_trigger_target_dag
+[2023-09-06T18:50:02.673-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:02.672-0300] {manager.py:501} INFO - Created Permission View: can delete on DAG:example_trigger_target_dag
+[2023-09-06T18:50:02.716-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:02.715-0300] {manager.py:501} INFO - Created Permission View: can edit on DAG:example_trigger_target_dag
+[2023-09-06T18:50:02.757-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:02.757-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T18:50:02.770-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:02.769-0300] {dag.py:2929} INFO - Creating ORM DAG for example_trigger_target_dag
+[2023-09-06T18:50:02.771-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:02.770-0300] {dag.py:3677} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-06T18:50:02.795-0300] {processor.py:179} INFO - Processing /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.363 seconds
+[2023-09-06T18:50:58.113-0300] {processor.py:157} INFO - Started process (PID=1070) to work on /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-06T18:50:58.114-0300] {processor.py:829} INFO - Processing file /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-06T18:50:58.116-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:58.115-0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-06T18:50:58.123-0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-06T18:50:58.142-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:58.142-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T18:50:58.154-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:58.154-0300] {dag.py:3677} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-06T18:50:58.179-0300] {processor.py:179} INFO - Processing /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.069 seconds

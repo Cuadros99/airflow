@@ -1,0 +1,18 @@
+[2023-09-06T18:50:05.245-0300] {processor.py:157} INFO - Started process (PID=973) to work on /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-09-06T18:50:05.246-0300] {processor.py:829} INFO - Processing file /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-09-06T18:50:05.248-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:05.247-0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-09-06T18:50:05.269-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-09-06T18:50:05.607-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:05.606-0300] {manager.py:501} INFO - Created Permission View: can read on DAG:tutorial
+[2023-09-06T18:50:05.626-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:05.626-0300] {manager.py:501} INFO - Created Permission View: can delete on DAG:tutorial
+[2023-09-06T18:50:05.647-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:05.647-0300] {manager.py:501} INFO - Created Permission View: can edit on DAG:tutorial
+[2023-09-06T18:50:05.666-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:05.666-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T18:50:05.678-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:05.677-0300] {dag.py:2929} INFO - Creating ORM DAG for tutorial
+[2023-09-06T18:50:05.691-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:05.690-0300] {dag.py:3677} INFO - Setting next_dagrun for tutorial to 2023-09-05T21:50:05.690699+00:00, run_after=2023-09-06T21:50:05.690699+00:00
+[2023-09-06T18:50:05.726-0300] {processor.py:179} INFO - Processing /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.485 seconds
+[2023-09-06T18:51:00.419-0300] {processor.py:157} INFO - Started process (PID=1072) to work on /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-09-06T18:51:00.421-0300] {processor.py:829} INFO - Processing file /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-09-06T18:51:00.422-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:51:00.422-0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-09-06T18:51:00.430-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-09-06T18:51:00.446-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:51:00.446-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T18:51:00.463-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:51:00.463-0300] {dag.py:3677} INFO - Setting next_dagrun for tutorial to 2023-09-05T21:51:00.463389+00:00, run_after=2023-09-06T21:51:00.463389+00:00
+[2023-09-06T18:51:00.487-0300] {processor.py:179} INFO - Processing /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds

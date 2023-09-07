@@ -1,0 +1,18 @@
+[2023-09-06T18:50:24.775-0300] {processor.py:157} INFO - Started process (PID=1005) to work on /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-09-06T18:50:24.777-0300] {processor.py:829} INFO - Processing file /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-09-06T18:50:24.778-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:24.777-0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-09-06T18:50:24.792-0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-09-06T18:50:24.987-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:24.987-0300] {manager.py:501} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2023-09-06T18:50:25.001-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:25.001-0300] {manager.py:501} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2023-09-06T18:50:25.016-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:25.015-0300] {manager.py:501} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2023-09-06T18:50:25.025-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:25.024-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T18:50:25.032-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:25.032-0300] {dag.py:2929} INFO - Creating ORM DAG for example_bash_operator
+[2023-09-06T18:50:25.040-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:25.039-0300] {dag.py:3677} INFO - Setting next_dagrun for example_bash_operator to 2023-09-05T00:00:00+00:00, run_after=2023-09-06T00:00:00+00:00
+[2023-09-06T18:50:25.062-0300] {processor.py:179} INFO - Processing /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.291 seconds
+[2023-09-06T18:51:15.047-0300] {processor.py:157} INFO - Started process (PID=1090) to work on /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-09-06T18:51:15.048-0300] {processor.py:829} INFO - Processing file /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-09-06T18:51:15.049-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:51:15.049-0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-09-06T18:51:15.059-0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-09-06T18:51:15.081-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:51:15.081-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-09-06T18:51:15.100-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:51:15.100-0300] {dag.py:3677} INFO - Setting next_dagrun for example_bash_operator to 2023-09-05T00:00:00+00:00, run_after=2023-09-06T00:00:00+00:00
+[2023-09-06T18:51:15.124-0300] {processor.py:179} INFO - Processing /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.079 seconds

@@ -1,0 +1,10 @@
+[2023-09-06T18:50:15.455-0300] {processor.py:157} INFO - Started process (PID=993) to work on /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-09-06T18:50:15.456-0300] {processor.py:829} INFO - Processing file /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-09-06T18:50:15.457-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:50:15.457-0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-09-06T18:50:15.460-0300] {processor.py:841} WARNING - No viable dags retrieved from /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-09-06T18:50:15.471-0300] {processor.py:179} INFO - Processing /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2023-09-06T18:51:07.474-0300] {processor.py:157} INFO - Started process (PID=1080) to work on /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-09-06T18:51:07.476-0300] {processor.py:829} INFO - Processing file /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-09-06T18:51:07.477-0300] {logging_mixin.py:151} INFO - [2023-09-06T18:51:07.477-0300] {dagbag.py:539} INFO - Filling up the DagBag from /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-09-06T18:51:07.479-0300] {processor.py:841} WARNING - No viable dags retrieved from /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-09-06T18:51:07.491-0300] {processor.py:179} INFO - Processing /home/dany/teste/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
