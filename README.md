@@ -1,7 +1,7 @@
 # **airflow**
 
 
-**Descrição do Projeto**: Este projeto consiste em um sistema de coleta e armazenamento de tweets relacionados a serviços de streaming, como Disney Plus, Netflix, HBOGO, Globoplay, entre outros. Os tweets são coletados em tempo real, passam por um processo de limpeza e estruturação e são armazenados em um banco de dados PostgreSQL.
+**Descrição do Projeto**: Este projeto consiste em um abiente para utilizar a plataforma airflow para orquestração de tarefas. A dag existente no repositório está relacionada ao projeto Streaming-insights, referenciado no final do documento.
 
 ## Requisitos
 
